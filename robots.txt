@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lideceau.github.io/sitemap.html.gz
+Sitemap: https://lideceau.github.io/app/sitemap.html.gz
+Sitemap: https://lideceau.github.io/assets/sitemap.html.gz
+Sitemap: https://lideceau.github.io/css/sitemap.html.gz
+Sitemap: https://lideceau.github.io/includes/sitemap.html.gz
+Sitemap: https://lideceau.github.io/item/sitemap.html.gz
+Sitemap: https://lideceau.github.io/src/sitemap.html.gz
